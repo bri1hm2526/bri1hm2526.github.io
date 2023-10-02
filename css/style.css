@@ -1587,7 +1587,7 @@ input[type="radio"] .styled:checked+label::after {
      font-size: 46px;
      line-height: 55px;
      font-weight: bold;
-     color: #308409;
+     color: #7f0000;
 }
 .banner-main .carousel-caption p {
      color: #0c0404;
