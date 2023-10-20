@@ -481,11 +481,11 @@ ul.top_icon li a {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-     color: #308409;
+     color: #CFAE9B;
 }
 
 .menu-area-main li.active a {
-     color: #308409;
+     color: #CFAE9B;
 }
 
 .right_cart_section {
@@ -1605,7 +1605,7 @@ input[type="radio"] .styled:checked+label::after {
      margin-right: 10px;
 }
 .btn-primary:hover {
-     background: #308409;
+     background: #CFAE9B;
 }
 .img-box figure {
      margin: 0;
@@ -1624,7 +1624,7 @@ input[type="radio"] .styled:checked+label::after {
      padding: 0px 0px 36px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #050303;
+     color: #7f0000;
      line-height: 50px;
      position: relative;
      margin-bottom: 20px;
@@ -1638,7 +1638,7 @@ input[type="radio"] .styled:checked+label::after {
      margin: 10px auto;
      width: 50%;
      height: 6px;
-     background: #308409;
+     background: #CFAE9B;
 }
 .titlepage span {
      color: #141012;
@@ -1827,7 +1827,7 @@ img.zoom {
      margin: 10px auto;
      width: 283px;
      height: 6px;
-     background: #308409;
+     background: #CFAE9B;
 }
 .Gallery .Gallery-box:hover .hoverle {
      position: absolute;
@@ -1878,15 +1878,13 @@ img.zoom {
      margin: 10px auto;
      width: 25%;
      height: 6px;
-     background: #308409;
+     background: #CFAE9B;
      right: 0;
 }
 .map_section figure {
      margin: 0px;
 }
-form {
-     background: #308409;
-     padding: 35px 30px;
+
 }
 .map_section figure img {
      width: 100%;
@@ -1985,8 +1983,7 @@ ul.link li a {
      color: #fff;
      font-size: 17px;
 }
-ul.link li a:hover {
-     color: #308409;
+
 }
 .pdn-top-30 {
      padding-top: 35px;
@@ -2007,41 +2004,13 @@ ul.location_icon li {
      align-items: center;
      padding-right: 20px;
 }
-ul.location_icon li:last-child {
-     padding-right: 0px;
-}
-ul.location_icon span {
-     font-size: 17px;
-     font-weight: 400;
-}
-.copyright {
-     background: #308409;
-     padding: 20px 0px 20px 0;
-}
-.copyright p {
-     color: #fff;
-     font-size: 16px;
-     text-align: center;
-     text-align: center;
-     margin: 0 auto;
-}
-.copyright a {
-     color: #fff;
-}
-.copyright a:hover {
-     color: #000;
-}
-.btn-primary.focus,
-.btn-primary:focus {
-     box-shadow: inherit;
-}
 
 /*--------------------------------------------------------------------- inner_page css ---------------------------------------------------------------------*/
 .about_page .about {
      margin-bottom: 90px;
 }
 .about-bg {
-     background-color: #b32137;
+     background-color: #CFAE9B;
      margin-top: 90px;
 }
 .Books-bg .titlepage {
@@ -2051,7 +2020,7 @@ ul.location_icon span {
      margin-bottom: 90px;
 }
 .about-bg .abouttitle h2 {
-     color: #fff;
+     color: #CFAE9B;
      text-transform: uppercase;
      font-size: 40px;
      line-height: 45px;
